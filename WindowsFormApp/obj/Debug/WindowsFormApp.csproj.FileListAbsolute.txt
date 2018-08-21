@@ -1,0 +1,10 @@
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.exe.config
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.exe
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.pdb
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csprojAssemblyReference.cache
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.Form1.resources
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.Properties.Resources.resources
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.GenerateResource.cache
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.CoreCompileInputs.cache
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.exe
+c:\users\suyash mehrotra\source\repos\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.pdb
